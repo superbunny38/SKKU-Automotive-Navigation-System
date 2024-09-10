@@ -28,3 +28,14 @@ This is what the home screen looks like.
 #### 3.1 Set your starting location
 
 <img width="357" alt="image" src="https://github.com/user-attachments/assets/b4a4ce96-0968-4ce8-a554-7f5a67d607d2">
+
+
+#### 3.2 Set your destination
+
+<img width="355" alt="image" src="https://github.com/user-attachments/assets/e231585c-7d5b-40bb-b12b-cb52c6942a45">
+
+##### 3.2.1 Find Classrooms
+
+##### 3.2.2 Find Amenities
+
+##### 3.2.3 Set destination in the other campus
