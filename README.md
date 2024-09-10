@@ -43,5 +43,8 @@ This is what the home screen looks like.
 
 ## 4. Find Path
 
+Shows the travel time by walking
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/72ec944f-49f2-4901-8ef0-eb67cfc9367b">
+
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/329fa86a-94d7-486d-a60a-5eafff689569">
 
