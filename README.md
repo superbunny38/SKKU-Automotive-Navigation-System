@@ -24,3 +24,7 @@ This is what the home screen looks like.
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/61e702fa-5636-4883-8d90-05284c913405">
 
 ## 3. Set your starting location and destination.
+
+#### 3.1 Set your starting location
+
+<img width="357" alt="image" src="https://github.com/user-attachments/assets/b4a4ce96-0968-4ce8-a554-7f5a67d607d2">
