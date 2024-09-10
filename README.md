@@ -5,7 +5,7 @@ An automotive navigation system designed to help navigate locations in Sungkyunk
 
 # Guideline
 
-## 1. Start the program
+## 1. Start the program.
 
 This is what the home screen looks like.
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/7067d67e-e742-482b-b10b-d7fab27e2d5b">
@@ -17,3 +17,6 @@ This is what the home screen looks like.
 
 
 <Suwon Campus>
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/61e702fa-5636-4883-8d90-05284c913405">
+
+## 3. Set your starting location and destination.
