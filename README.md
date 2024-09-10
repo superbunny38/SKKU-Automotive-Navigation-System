@@ -6,9 +6,10 @@ An automotive navigation system designed to help navigate locations in Sungkyunk
 # Guideline
 
 ## 1. Start the program.
-₩₩₩
+```
 python pyqt.py
-₩₩₩
+```
+
 This is what the home screen looks like.
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/7067d67e-e742-482b-b10b-d7fab27e2d5b">
 
