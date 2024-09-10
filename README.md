@@ -12,11 +12,12 @@ This is what the home screen looks like.
 
 ## 2. Click on which campus you want to find the destination in.
 
-Hyehwa Campus Map
+Hyehwa Campus Map <br>
 <img width="354" alt="image" src="https://github.com/user-attachments/assets/35df989e-b11d-4f0f-9673-16ede0a2b0bd">
 
+<br>
 
-Suwon Campus Map
+Suwon Campus Map <br>
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/61e702fa-5636-4883-8d90-05284c913405">
 
 ## 3. Set your starting location and destination.
