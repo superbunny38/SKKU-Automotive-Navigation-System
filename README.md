@@ -6,7 +6,8 @@ An automotive navigation system designed for people to help navigate locations i
 
 
 ## Map for Sungkyunkwan University Campus at Hyehwa
-![image](https://github.com/user-attachments/assets/eec29bc3-2971-4154-a846-2ae19d3ae896)
+![image](https://github.com/user-attachments/assets/44351f91-a200-441d-a74e-ccbf9e7a8d99)
+
 
 ## Map for Sungkyunkwan University Campus at Suwon
 ![image](https://github.com/user-attachments/assets/d0ac9809-d4e3-4e6c-aa9d-266b7da94bd5)
