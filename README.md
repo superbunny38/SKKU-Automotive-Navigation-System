@@ -39,3 +39,9 @@ This is what the home screen looks like.
 ##### 3.2.2 Find Amenities
 
 ##### 3.2.3 Set destination in the other campus
+
+
+## 4. Find Path
+
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/72ec944f-49f2-4901-8ef0-eb67cfc9367b">
+
