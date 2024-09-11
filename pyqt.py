@@ -196,10 +196,10 @@ class map_myeongryun(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton.setText(_translate("Dialog", "시작 위치"))
-        self.pushButton_2.setText(_translate("Dialog", "도착 위치"))
-        self.pushButton_3.setText(_translate("Dialog", "경로 탐색"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton.setText(_translate("Dialog", "Starting Location"))
+        self.pushButton_2.setText(_translate("Dialog", "Destination"))
+        self.pushButton_3.setText(_translate("Dialog", "Find Path"))
 
 
 class m_input_start_point(object):
@@ -274,11 +274,11 @@ class m_input_start_point(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton.setText(_translate("Dialog", "정문"))
-        self.pushButton_2.setText(_translate("Dialog", "철문"))
-        self.pushButton_3.setText(_translate("Dialog", "쪽문"))
-        self.pushButton_4.setText(_translate("Dialog", "후문"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton.setText(_translate("Dialog", "Main Entrance (정문)"))
+        self.pushButton_2.setText(_translate("Dialog", "Iron Entrance (철문)"))
+        self.pushButton_3.setText(_translate("Dialog", "Side Entrance (쪽문)"))
+        self.pushButton_4.setText(_translate("Dialog", "Back Entrance (후문)"))
 
 
 class m_input_destination_point(object):
@@ -346,10 +346,10 @@ class m_input_destination_point(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton_2.setText(_translate("Dialog", "강의실 찾기"))
-        self.pushButton_3.setText(_translate("Dialog", "편의 시설 찾기"))
-        self.pushButton.setText(_translate("Dialog", "율전 캠퍼스"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton_2.setText(_translate("Dialog", "Find Classrooms"))
+        self.pushButton_3.setText(_translate("Dialog", "Find Amenities"))
+        self.pushButton.setText(_translate("Dialog", "Suwon Campus"))
 
 
 class m_select_classroom(object):
@@ -400,9 +400,9 @@ class m_select_classroom(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton_2.setText(_translate("Dialog", "강의실 번호로 찾기"))
-        self.pushButton.setText(_translate("Dialog", "강의실 명칭으로 찾기"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton_2.setText(_translate("Dialog", "Search Classroom by Number"))
+        self.pushButton.setText(_translate("Dialog", "Search Classroom by Name"))
 
 
 class m_classroom_as_number(object):
@@ -504,8 +504,8 @@ class m_classroom_as_number(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton.setText(_translate("Dialog", "도착지 설정"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton.setText(_translate("Dialog", "Set Destination"))
 
 
 class m_classroom_as_name(object):
@@ -620,7 +620,7 @@ class m_classroom_as_name(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
         self.radioButton.setText(_translate("Dialog", "국제관"))
         self.radioButton_2.setText(_translate("Dialog", "경영관"))
         self.radioButton_3.setText(_translate("Dialog", "다산경제관"))
@@ -631,7 +631,7 @@ class m_classroom_as_name(object):
         self.radioButton_8.setText(_translate("Dialog", "수선관 별관"))
         self.radioButton_9.setText(_translate("Dialog", "법학관"))
         self.radioButton_10.setText(_translate("Dialog", "600주년 기념관"))
-        self.pushButton.setText(_translate("Dialog", "도착지 설정"))
+        self.pushButton.setText(_translate("Dialog", "Set Destination"))
 
 
 class m_find_amenities(object):
@@ -746,7 +746,7 @@ class m_find_amenities(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
         self.radioButton.setText(_translate("Dialog", "교수회관"))
         self.radioButton_2.setText(_translate("Dialog", "편의점 경영"))
         self.radioButton_3.setText(_translate("Dialog", "편의점 인문"))
@@ -757,7 +757,7 @@ class m_find_amenities(object):
         self.radioButton_8.setText(_translate("Dialog", "ATM 600주년"))
         self.radioButton_9.setText(_translate("Dialog", "ATM 국제관"))
         self.radioButton_10.setText(_translate("Dialog", "ATM 중앙도서관"))
-        self.pushButton.setText(_translate("Dialog", "도착지 설정"))
+        self.pushButton.setText(_translate("Dialog", "Set Destination"))
 
 
 class map_yuljeon(object):
@@ -818,10 +818,10 @@ class map_yuljeon(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton.setText(_translate("Dialog", "시작 위치"))
-        self.pushButton_2.setText(_translate("Dialog", "도착 위치"))
-        self.pushButton_3.setText(_translate("Dialog", "경로 탐색"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton.setText(_translate("Dialog", "Starting Location"))
+        self.pushButton_2.setText(_translate("Dialog", "Destination"))
+        self.pushButton_3.setText(_translate("Dialog", "Find Path"))
 
 
 class y_input_start_point(object):
@@ -870,9 +870,9 @@ class y_input_start_point(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton.setText(_translate("Dialog", "정문"))
-        self.pushButton_2.setText(_translate("Dialog", "후문"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton.setText(_translate("Dialog", "Main Entrance (정문)"))
+        self.pushButton_2.setText(_translate("Dialog", "Back Entrance (후문)"))
 
 
 class y_input_destination_point(object):
@@ -940,10 +940,10 @@ class y_input_destination_point(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton_2.setText(_translate("Dialog", "강의실 찾기"))
-        self.pushButton_3.setText(_translate("Dialog", "편의 시설 찾기"))
-        self.pushButton.setText(_translate("Dialog", "명륜 캠퍼스"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton_2.setText(_translate("Dialog", "Find Classrooms"))
+        self.pushButton_3.setText(_translate("Dialog", "Find Amenities"))
+        self.pushButton.setText(_translate("Dialog", "Hyehwa Campus"))
 
 
 class y_select_classroom(object):
@@ -994,9 +994,9 @@ class y_select_classroom(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton.setText(_translate("Dialog", "강의실 번호로 찾기"))
-        self.pushButton_2.setText(_translate("Dialog", "강의실 명칭으로 찾기"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton.setText(_translate("Dialog", "Search Classroom by Number"))
+        self.pushButton_2.setText(_translate("Dialog", "Search Classroom by Name"))
 
 
 class y_classroom_as_number(object):
@@ -1129,8 +1129,8 @@ class y_classroom_as_number(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton.setText(_translate("Dialog", "도착지 설정"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton.setText(_translate("Dialog", "Set Destination"))
 
 
 class y_classroom_as_name(object):
@@ -1272,7 +1272,7 @@ class y_classroom_as_name(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
         self.radioButton.setText(_translate("Dialog", "의학관"))
         self.radioButton_2.setText(_translate("Dialog", "약학관"))
         self.radioButton_3.setText(_translate("Dialog", "반도체관"))
@@ -1483,7 +1483,7 @@ class y_find_amenities(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
         self.radioButton.setText(_translate("Dialog", "의대 대강당"))
         self.radioButton_2.setText(_translate("Dialog", "학생회관"))
         self.radioButton_3.setText(_translate("Dialog", "복지회관"))
@@ -1563,13 +1563,13 @@ class m_move(object):
         if (route.peek() == user_location.peek()):
             route.pop()
             if (user_location.peek() == destination):
-                print("목적지에 도착했습니다")
-                print("안내를 종료합니다")
+                print("Arrived at the Destination.")
+                print("Terminating your navigation.")
                 return
             self.move_loc(route, user_location)
             self.is_follow(route, user_location)
         else:
-            print("경로를 이탈했습니다")
+            print("You are off the course.")
             now_location = user_location.peek()
             user_location.claer()
             self.find_way(now_location[0], now_location[1], destX, destY, startC, destC)
@@ -1804,10 +1804,10 @@ class m_move(object):
             self.show_time_hour(hour, minute, second)
 
     def show_time(self, minute, second):
-        QMessageBox.about(None, "유생 길라잡이", "예상 시간은 %d분 %d초입니다." % (minute, second))
+        QMessageBox.about(None, "SKKU GPS Navigation System", "Anticipated Time for Travel is %dmin(s) %dsec(s)." % (minute, second))
 
     def show_time_hour(self, hour, minute, second):
-        QMessageBox.about(None, "유생 길라잡이", "예상 시간은 %d시간 %d분 %d초입니다." % (hour, minute, second))
+        QMessageBox.about(None, "SKKU GPS Navigation System", "Anticipated Time for Travel is %dhour(s) %dmin(s) %dsec(s)." % (hour, minute, second))
 
     def show_start_point(self):
         global user_loc
@@ -2064,14 +2064,14 @@ class m_move(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
         self.pushButton.setText(_translate("Dialog", "▲"))
         self.pushButton_3.setText(_translate("Dialog", "▼"))
         self.pushButton_4.setText(_translate("Dialog", "▶"))
         self.pushButton_5.setText(_translate("Dialog", "◀"))
-        self.pushButton_2.setText(_translate("Dialog", "안내 종료"))
-        self.pushButton_6.setText(_translate("Dialog", "경로 출력"))
-        self.pushButton_7.setText(_translate("Dialog", "셔틀 탑승"))
+        self.pushButton_2.setText(_translate("Dialog", "End"))
+        self.pushButton_6.setText(_translate("Dialog", "Show Path"))
+        self.pushButton_7.setText(_translate("Dialog", "Shuttle"))
 
 
 class y_move(object):
@@ -2157,9 +2157,9 @@ class y_move(object):
 
     def print_shuttle_bus_table(self):
         if startC == destC:
-            QMessageBox.about(None, "유생 길라잡이", "같은 캠퍼스 내 이동 중입니다.\n프로그램이 종료됩니다.")
+            QMessageBox.about(None, "SKKU GPS Navigation System", "같은 캠퍼스 내 이동 중입니다.\n프로그램이 종료됩니다.")
         elif startC == 1 and destC == 2:
-            QMessageBox.about(None, "유생 길라잡이", "이미 셔틀버스를 탑승하셨습니다.\n프로그램이 종료됩니다.")
+            QMessageBox.about(None, "SKKU GPS Navigation System", "이미 셔틀버스를 탑승하셨습니다.\n프로그램이 종료됩니다.")
         else:
             self.suttle_timetable()
 
@@ -2372,10 +2372,10 @@ class y_move(object):
             self.show_time_hour(hour, minute, second)
 
     def show_time(self, minute, second):
-        QMessageBox.about(None, "유생 길라잡이", "예상 시간은 %d분 %d초입니다." % (minute, second))
+        QMessageBox.about(None, "SKKU GPS Navigation System", "Anticipated Time for Travel is %dmin(s) %dsec(s)." % (minute, second))
 
     def show_time_hour(self, hour, minute, second):
-        QMessageBox.about(None, "유생 길라잡이", "예상 시간은 %d시간 %d분 %d초입니다." % (hour, minute, second))
+        QMessageBox.about(None, "SKKU GPS Navigation System", "Anticipated Time for Travel is %dhour(s) %dmin(s) %dsec(s)." % (hour, minute, second))
 
     def show_start_point(self):
         global user_loc
@@ -2648,14 +2648,14 @@ class y_move(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton_2.setText(_translate("Dialog", "안내 종료"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton_2.setText(_translate("Dialog", "End"))
         self.pushButton_3.setText(_translate("Dialog", "▼"))
         self.pushButton_4.setText(_translate("Dialog", "▶"))
         self.pushButton.setText(_translate("Dialog", "▲"))
         self.pushButton_5.setText(_translate("Dialog", "◀"))
-        self.pushButton_6.setText(_translate("Dialog", "경로 출력"))
-        self.pushButton_7.setText(_translate("Dialog", "셔틀 탑승"))
+        self.pushButton_6.setText(_translate("Dialog", "Show Path"))
+        self.pushButton_7.setText(_translate("Dialog", "Shuttle"))
 
 class campus_move(object):
     def suttle_move(self):
@@ -2695,7 +2695,7 @@ class campus_move(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Naviagation System"))
         self.pushButton.setText(_translate("Dialog", "캠퍼스 이동"))
 
 
@@ -2753,10 +2753,10 @@ class Ui_Dialog(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "유생 길라잡이"))
-        self.pushButton_3.setText(_translate("Dialog", "명륜"))
-        self.pushButton_2.setText(_translate("Dialog", "율전"))
-        self.pushButton.setText(_translate("Dialog", "exit"))
+        Dialog.setWindowTitle(_translate("Dialog", "SKKU GPS Navigation System"))
+        self.pushButton_3.setText(_translate("Dialog", "Hyehwa Campus"))
+        self.pushButton_2.setText(_translate("Dialog", "Suwon Campus"))
+        self.pushButton.setText(_translate("Dialog", "Exit"))
 
 
 if __name__ == "__main__":
